@@ -4,11 +4,9 @@
 
 Este projeto é uma aplicação web simples e funcional de "Lista de Tarefas" (To-Do List), desenvolvido como uma forma prática de **adquirir conhecimento e estudar a biblioteca jQuery**.
 
-[![Visitar minha página](https://img.shields.io/badge/🌐_Visitar%20minha%20página-4CAF50?style=for-the-badge)](https://gustavomascarenhassfier.github.io/Lista-de-Tarefas-jQuery/)
-
-
 Ele permite ao usuário adicionar, marcar como concluído e remover tarefas. Sua principal característica é a **persistência de dados** garantida pelo uso do **LocalStorage**, mantendo as tarefas salvas ao recarregar a página. A aplicação foi construída utilizando HTML, CSS e jQuery para facilitar a manipulação do DOM e a gestão de eventos.
 
+[![Visitar minha página](https://img.shields.io/badge/🌐_Visitar%20minha%20página-4CAF50?style=for-the-badge)](https://gustavomascarenhassfier.github.io/Lista-de-Tarefas-jQuery/)
 
 
 ## 🎯 Objetivo de Estudo (Foco em jQuery)
